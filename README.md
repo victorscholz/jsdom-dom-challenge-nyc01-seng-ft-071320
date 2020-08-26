@@ -9,6 +9,9 @@ If you open up index.html in the browser, you'll find a small application. It ha
 
 First, take a few minutes to explore and test out the behavior of the page. Think about how each of the features must work. What must be happening underneath each of these features?
 
+ Steps to start:
+
+
 The challenge is to reverse engineer these features and build them yourself, using what you've learned about JavaScript and DOM Manipulation.
 
 ## Rewriting the functionality
@@ -21,8 +24,8 @@ Add the following features one by one, refreshing the page to see your functiona
 
 > Note: These deliverables are written in the form of _User Stories_. They describe the features from the perspective of a user when they visit the page.
 
-1. As a user, I should see the timer increment every second once the page has loaded.
-2. As a user, I can manually increment and decrement the counter using the plus and minus buttons.
+<!-- 1. As a user, I should see the timer increment every second once the page has loaded. -->
+<!-- 2. As a user, I can manually increment and decrement the counter using the plus and minus buttons. -->
 3. As a user, I can 'like' an individual number of the counter. I should see count of the number of 'likes' associated with that number.
 4. As a user, I can pause the counter, which should 
 
